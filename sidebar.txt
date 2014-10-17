@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tes:home|Door43 (tes)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tes|d43-tes repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tes/archive/master.zip|d43-tes.zip]]
+
+**Recent Changes**
+{{changes>ns = tes}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tes|Ethnologue data]]
+
